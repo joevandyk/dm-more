@@ -12,4 +12,4 @@ Including:
 
 == Aggregates
 
-Currently includes count, min, max, avg, sum (more info in dm-aggregates/README)
+Currently includes count, min, max, avg, sum (more info in dm-aggregates/README) 
